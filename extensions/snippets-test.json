@@ -1,0 +1,1 @@
+{"html":{"filters":"html, c, 2c-image-path","abbreviations":{"a":"<a href=\"#\"><\/a>","form":"<form action=\"?\" method=\"post\">"}},"xhtml":{"extends":"html","filters":"html, c, 2c-image-path"},"css":{"filters":"html"}}

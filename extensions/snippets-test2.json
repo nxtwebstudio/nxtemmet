@@ -1,0 +1,1 @@
+{"html":{"filters":"html, c, 2c-image-path","abbreviations":{"test":".test"}},"xhtml":{"extends":"html","filters":"html, c, 2c-image-path"},"css":{"filters":"html"}}

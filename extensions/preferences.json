@@ -1,0 +1,8 @@
+{
+	"filter.commentAfter": "<!-- /<%= attr(\"id\", \"#\") %><%= escAttr(\"class\", \".\") %> -->",
+	"css.valueSeparator": ": ",
+	"css.propertyEnd": "; ",
+	"css.alignVendor": true,
+	"css.gradient.fallback": true,
+	"css.unitlessProperties" : "z-index, opacity, font-weight, zoom, line-height"
+}
