@@ -18,7 +18,7 @@
                             {
                                 "command": "open_file", "args":
                                 {
-                                    "file": "${packages}/2createEmmet/Emmet.sublime-settings"
+                                    "file": "${packages}/nxtwebstudioEmmet/Emmet.sublime-settings"
                                 },
                                 "caption": "Settings – Default"
                             },
@@ -34,7 +34,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/2createEmmet/Default (OSX).sublime-keymap",
+                                    "file": "${packages}/nxtwebstudioEmmet/Default (OSX).sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -42,7 +42,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/2createEmmet/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/nxtwebstudioEmmet/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -50,7 +50,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/2createEmmet/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/nxtwebstudioEmmet/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings – Default"

@@ -1,6 +1,6 @@
 /**
  * Copied from emment-app.js and overwritten
- * added 2create Formatting Standard
+ * added nxtwebstudio Formatting Standard
  *
  * -----------------------------------------------------------------------------
  * filter html
